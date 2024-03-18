@@ -1,0 +1,1 @@
+# valico-rs-wasm
